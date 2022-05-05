@@ -138,9 +138,7 @@ console.log(customFlat(arr, 2));
 
 /***************************************************
  
-  B E N I T O  S C A N D I W E B  D E V E L O P E R
-        BENITO SCANDIWEB DEVELOPER 
-  B E N I T O  S C A N D I W E B  D E V E L O P E R
+ 
 
 ****************************************************/
 
