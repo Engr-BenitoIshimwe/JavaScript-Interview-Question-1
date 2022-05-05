@@ -49,7 +49,10 @@ document.querySelector('#products').addEventListener('click', (event) => {
 
   if (event.target.tagName === 'LI') {
     window.location.href += '#' + event.target.id;
-  } // Now when we click on this, this is going to route us to that page or like atleast have the product name of the url so if you click on this, we get this hash wallet so this is what event delegation is without adding event listener to each specific list item we just added it to the parent and we are using it to click the other list items.
+  } // Now when we click on this, this is going to route us to that page or like atleast have the 
+    // product name of the url so if you click on this, we get this hash wallet so this is what event
+    // delegation is without adding event listener to each specific list item we just added it to the 
+    // parent and we are using it to click the other list items.
 });
 
 // Question 4: Flatten the Array
